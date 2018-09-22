@@ -1,0 +1,29 @@
+_repo: A-Book-for-a-Rainy-Day-or-Recollections-of-the-Events-of-the-Years-1766-1833_54693
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, John Thomas
+    alias: Smith, J. T. (John Thomas)
+    birthdate: 1766
+    deathdate: 1833
+    gutenberg_agent_id: '39078'
+    url: http://www.gutenberg.org/2009/agents/39078
+  editor:
+    agent_name: Whitten, Wilfred
+    gutenberg_agent_id: '47994'
+    url: http://www.gutenberg.org/2009/agents/47994
+description: ''
+gutenberg_issued: '2017-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A Book for a Rainy Day
+
+  or, Recollections of the Events of the Years 1766-1833'
+url: http://www.gutenberg.org/ebooks/54693
